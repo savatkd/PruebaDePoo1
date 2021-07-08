@@ -1,0 +1,13 @@
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\bin\Debug\netcoreapp3.1\ex-tercero.exe
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\bin\Debug\netcoreapp3.1\ex-tercero.deps.json
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\bin\Debug\netcoreapp3.1\ex-tercero.runtimeconfig.json
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\bin\Debug\netcoreapp3.1\ex-tercero.runtimeconfig.dev.json
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\bin\Debug\netcoreapp3.1\ex-tercero.dll
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\bin\Debug\netcoreapp3.1\ex-tercero.pdb
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\obj\Debug\netcoreapp3.1\ex-tercero.csprojAssemblyReference.cache
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\obj\Debug\netcoreapp3.1\ex-tercero.AssemblyInfoInputs.cache
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\obj\Debug\netcoreapp3.1\ex-tercero.AssemblyInfo.cs
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\obj\Debug\netcoreapp3.1\ex-tercero.csproj.CoreCompileInputs.cache
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\obj\Debug\netcoreapp3.1\ex-tercero.dll
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\obj\Debug\netcoreapp3.1\ex-tercero.pdb
+C:\Users\IAN VELEZ\source\repos\ex-tercero\ex-tercero\obj\Debug\netcoreapp3.1\ex-tercero.genruntimeconfig.cache
